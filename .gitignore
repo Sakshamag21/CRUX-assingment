@@ -1,0 +1,14 @@
+### django ###
+
+backend/Lib
+backend/Scripts
+backend/.vscode
+backend/db.sqlite3
+backend/src/Products/migrations
+backend/src/Products/__pycache__
+backend/src/csvfile/__pycache__
+backend/venv
+### react ###
+frontend/node_modules
+
+.ipynb_checkpoints

@@ -1,0 +1,8 @@
+{
+  "openai/gpt-4": {
+    "response": {
+      "role": "assistant",
+      "content": "The table has 2 columns and 4 rows."
+    }
+  }
+}
